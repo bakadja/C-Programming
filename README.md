@@ -1,2 +1,2 @@
 # c
-For c
+Für C Programmierung
