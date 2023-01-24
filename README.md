@@ -1,6 +1,6 @@
 # C Programmierung
 ---
-Hier finden Sie einige Übungen, die ich im Rahmen meiner Lehrzeit in der Programmiersprache C durchgeführt habe.
+Hier finden Sie einige Übungen, die ich in der Programmiersprache C gemacht habe, um zu lernen, wie man programmiert. Die **C#-Beispiele** sind [hier](https://github.com/bakadja/csharp-programming) zu finden.
 
 ### Übersicht zur Übungen in C
 
